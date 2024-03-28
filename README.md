@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">I'm <a href="https://github.com/RecamFx">Recam</a> 👋</h1>
+<h1 align="center">I'm <a href="https://github.com/RecamFx">Recam</a> <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 </div>
 <img src="https://i.imgur.com/PKJ0sbz.jpeg">
 
