@@ -21,7 +21,7 @@
   <a src="https://linkedin.com"><img src = "https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
-<h1 align="center">GitHub Stats <img src = "https://i.imgur.com/NXPp4MQ.gif" width = "25"></h1>
+<h1 align="center">GitHub Stats <img src = "https://i.imgur.com/ZDN7DPj.gif" width = "25"></h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=asd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
