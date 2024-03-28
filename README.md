@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/PKJ0sbz.jpeg">
 
-<h1 align="center">Skills I'm learning
+<h1 align="center">Skills in progress</h1>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Recam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7w5UKbR-r4kQbLgpUWSz8A) 
 
 
