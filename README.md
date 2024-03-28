@@ -12,7 +12,7 @@
 <p align="center">
   <img src = "https://skillicons.dev/icons?i=js,git,html,css,cpp,ts,py,react,mysql,angular,nodejs,discordjs">
 </p>
-<h1 align="center">APPS</h1>
+<h1 align="center">APPS ⚙️</h1>
 <p align="center">
   <img src = "https://skillicons.dev/icons?i=ps,vscode,github,godot,windows">
   <a src="https://gmail.com"><img src = "https://skillicons.dev/icons?i=gmail"></a>
@@ -21,7 +21,7 @@
   <a src="https://linkedin.com"><img src = "https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
-<h1 align="center">GitHub Stats</h1>
+<h1 align="center">GitHub Stats <img src = "https://i.imgur.com/NXPp4MQ.gif" width = "25"></h1>
 
 ![](https://github-readme-stats.vercel.app/api?username=asd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
