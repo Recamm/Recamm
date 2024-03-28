@@ -1,6 +1,7 @@
-# 💫 About Me:
-📖 Im currently learning
-
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://github.com/RecamFx">Camilo</a> 👋</h1>
+</div>
+<img src="https://imgur.com/PKJ0sbz">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Recam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7w5UKbR-r4kQbLgpUWSz8A) 
