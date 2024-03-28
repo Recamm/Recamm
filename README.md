@@ -14,7 +14,7 @@
 </p>
 <h1 align="center">APPS</h1>
 <p align="center">
-  <img src = "https://skillicons.dev/icons?i=vscode,ps,github,godot,windows">
+  <img src = "https://skillicons.dev/icons?i=ps,vscode,github,godot,windows">
   <a src="https://gmail.com"><img src = "https://skillicons.dev/icons?i=gmail"></a>
   <a src="https://discord.com"><img src = "https://skillicons.dev/icons?i=discord"></a>
   <a src="https://twitter.com"><img src = "https://skillicons.dev/icons?i=twitter"></a>
