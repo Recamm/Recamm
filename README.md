@@ -15,10 +15,10 @@
 <h1 align="center">APPS ⚙️</h1>
 <p align="center">
   <img src = "https://skillicons.dev/icons?i=ps,vscode,github,godot,windows">
-  <a src="https://gmail.com"><img src = "https://skillicons.dev/icons?i=gmail"></a>
-  <a src="https://discord.com"><img src = "https://skillicons.dev/icons?i=discord"></a>
-  <a src="https://twitter.com"><img src = "https://skillicons.dev/icons?i=twitter"></a>
-  <a src="https://linkedin.com"><img src = "https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://gmail.com" target="_blank"><img src = "https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://discord.com" target="_blank"><img src = "https://skillicons.dev/icons?i=discord"></a>
+  <a href="https://twitter.com" target="_blank"><img src = "https://skillicons.dev/icons?i=twitter"></a>
+  <a href="https://linkedin.com" target="_blank"><img src = "https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
 <h1 align="center">GitHub Stats <img src = "https://i.imgur.com/ZDN7DPj.gif" width = "25"></h1>
