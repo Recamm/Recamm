@@ -23,5 +23,9 @@
 
 <h1 align="center">GitHub Stats <img src = "https://i.imgur.com/ZDN7DPj.gif" width = "25"></h1>
 
+<div align="center">
+  
 ![](https://streak-stats.demolab.com?user=RecamFx&theme=transparent&border_radius=0&date_format=j%2Fn%5B%2FY%5D&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RecamFx&layout=donut&theme=transparent&border_radius=0&date_format=j%2Fn%5B%2FY%5D&hide_border=true)
+
+</div>
