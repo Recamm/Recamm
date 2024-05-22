@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Recam;Future+Full+Stack+Developer;Currently+learning;@RecamFx!">
 </p>
 
-<img src="https://i.imgur.com/PKJ0sbz.jpeg">
+<img src="https://i.imgur.com/L5I11Ux.jpeg">
 
 <h1 align="center">Skills in progress <img src = "https://cdn.pixabay.com/animation/2023/03/20/02/45/02-45-27-186_512.gif" width = 35px></h1>
 <p align="center">
