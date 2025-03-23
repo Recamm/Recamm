@@ -26,6 +26,6 @@
 <div align="center">
     
 ![](https://streak-stats.demolab.com?user=RecamFx&theme=transparent&border_radius=0&date_format=j%2Fn%5B%2FY%5D&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RecamFx&layout=compact&theme=transparent&border_radius=0&date_format=j%2Fn%5B%2FY%5D&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Recamm&layout=compact&theme=transparent&border_radius=0&date_format=j%2Fn%5B%2FY%5D&hide_border=true)
 
 </div>
