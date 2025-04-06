@@ -1,8 +1,8 @@
+<!---
 <div align="center">
 <h1 align="center">Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px></h1>
 </div>
 
-<!---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Recam;Future+Full+Stack+Developer;Currently+learning;@RecamFx!">
 </p>
