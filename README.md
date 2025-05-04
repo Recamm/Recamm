@@ -13,6 +13,7 @@
 <!-- <img src="https://i.imgur.com/XQXKV4Y.jpeg"> -->
 <img src="https://i.imgur.com/AKcP2p4.jpeg">
 
+<!--
 <h1 align="center">Skills in progress <img src = "https://cdn.pixabay.com/animation/2023/03/20/02/45/02-45-27-186_512.gif" width = 35px></h1>
 <p align="center">
   <img src = "https://skillicons.dev/icons?i=js,git,html,css,cpp,ts,py,react,mysql,angular,nodejs,discordjs">
@@ -25,6 +26,7 @@
   <a href="https://twitter.com" target="_blank"><img src = "https://skillicons.dev/icons?i=twitter"></a>
   <a href="https://linkedin.com" target="_blank"><img src = "https://skillicons.dev/icons?i=linkedin"></a>
 </p>
+-->
 
 <h1 align="center">GitHub Stats <img src = "https://i.imgur.com/ZDN7DPj.gif" width = "25"></h1>
 
