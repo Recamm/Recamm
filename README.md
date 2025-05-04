@@ -10,7 +10,8 @@
 <img src="https://i.imgur.com/L5I11Ux.jpeg">
 -->
 
-<img src="https://i.imgur.com/XQXKV4Y.jpeg">
+<!-- <img src="https://i.imgur.com/XQXKV4Y.jpeg"> -->
+<img src="https://i.imgur.com/AKcP2p4.jpeg">
 
 <h1 align="center">Skills in progress <img src = "https://cdn.pixabay.com/animation/2023/03/20/02/45/02-45-27-186_512.gif" width = 35px></h1>
 <p align="center">
