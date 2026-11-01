@@ -12,8 +12,8 @@
 
 <!-- <img src="https://i.imgur.com/XQXKV4Y.jpeg"> -->
 <!-- <img src="https://i.imgur.com/AKcP2p4.jpeg"> -->
-<!-- <img src="assets/bannerGithubAntiguo.jpg"> -->
-<img src="assets/bannerGithubNuevo.jpg">
+<!-- <img src="assets/banner/bannerGithub-v1.jpg"> -->
+<img src="assets/banner/bannerGithub-V2.jpg">
 
 <!---
 <h1 align="center">Skills in progress <img src = "https://cdn.pixabay.com/animation/2023/03/20/02/45/02-45-27-186_512.gif" width = 35px></h1>
